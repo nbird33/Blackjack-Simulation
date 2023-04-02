@@ -1,8 +1,7 @@
 # Blackjack-Simulation
 
 
-using to GUI create a blackjack simulation 
-
+using GUI create a blackjack simulation 
 
 
 it involves handling several complex interactions between  
